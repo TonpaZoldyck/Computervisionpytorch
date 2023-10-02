@@ -27,7 +27,7 @@ Once trained, the model was evaluated on a separate test dataset to assess its p
 
 The image recognition model demonstrated impressive performance. It achieved high accuracy on both the Fashion MNIST and MNIST datasets, showcasing its versatility in handling different image recognition tasks. Visualizations of the model's predictions were created to gain insights into its decision-making process.
 
-![Confusion Matrix]()
+![Confusion Matrix](Compvision_conf_mat)
 
 ## Conclusion
 
