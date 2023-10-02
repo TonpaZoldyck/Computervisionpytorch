@@ -27,7 +27,13 @@ Once trained, the model was evaluated on a separate test dataset to assess its p
 
 The image recognition model demonstrated impressive performance. It achieved high accuracy on both the Fashion MNIST and MNIST datasets, showcasing its versatility in handling different image recognition tasks. Visualizations of the model's predictions were created to gain insights into its decision-making process.
 
+This CNN model was the best performer, as we can see from the below it classifed most of the items correctly to a high accuracy level.
+
 ![Confusion Matrix](Compvision_conf_mat)
+
+We note that the items it struggled with were such as t-shirt and shirt, given the image colour and qualiy it makes sense why this was a diffuclt item to match. 
+
+Overall I was able to tune the CNN algorithm to get a accuracy of 88% and out perform the standard linear and non-linear neueral Neaural networks I used as a baseline.
 
 ## Conclusion
 
